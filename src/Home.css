@@ -7,5 +7,5 @@
     display: flex;
     padding: 30px;
     flex-direction: row;
-    overflow-x: auto;
+    overflow: auto;
   }
