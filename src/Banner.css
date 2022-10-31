@@ -1,0 +1,21 @@
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(10, 10, 10);
+    width: 100%;
+}
+
+.banner__heading{
+    object-fit: contain;
+    color: black;
+    margin-left: 20px;
+}
+
+.banner_right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10vw;
+    margin-right: 8px;
+}
